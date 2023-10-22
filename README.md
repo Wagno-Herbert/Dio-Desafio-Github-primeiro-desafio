@@ -32,7 +32,7 @@ Desafio este que tenho gratidão e agradecimentos pela empresas Ifood Potência 
 
 ## Links Úteis 
 
-## Comandos
+## Comandos/Configurações
 
 
 
