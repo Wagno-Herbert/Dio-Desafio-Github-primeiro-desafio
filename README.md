@@ -19,10 +19,21 @@ Desafio este que tenho gratidão e agradecimentos pela empresas Ifood Potência 
 - [ ] Versionamento de Código com Git e GitHub
 - [ ] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [ ] Contribuindo em um Projeto Open Source no GitHub
+- [ ] Entendendo Comunicação Client x Server
+- [ ] Introdução ao HTML na Prática
+- [ ] Trabalhando com Formulários em HTML
+- [ ] Estruturando seu HTML + Formatações
+- [ ] Fundamentos do CSS
+- [ ] Estilizações Básicas com CSS
+- [ ] Criando sua Primeira Landing Page com HTML e CSS
 
+    
 ## **📋Anotações** 
 
-## Links Úteis
+## Links Úteis 
+
+## Comandos
+
 
 
 
