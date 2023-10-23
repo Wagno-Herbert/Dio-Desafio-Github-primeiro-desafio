@@ -13,11 +13,11 @@ Desafio este que tenho gratidão e agradecimentos pela empresas Ifood Potência 
 - Git
 - GitHub
 ## :bookmark_tabs:Atividades
-- [ ] Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
-- [ ] Mercado e Carreira em Desenvolvimento de Jogos
-- [ ] Introdução ao Desenvolvimento e Criação de Jogos
-- [ ] Versionamento de Código com Git e GitHub
-- [ ] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
+- [x] Mercado e Carreira em Desenvolvimento de Jogos
+- [x] Introdução ao Desenvolvimento e Criação de Jogos
+- [x] Versionamento de Código com Git e GitHub
+- [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [ ] Contribuindo em um Projeto Open Source no GitHub
 - [ ] Entendendo Comunicação Client x Server
 - [ ] Introdução ao HTML na Prática
